@@ -1,4 +1,4 @@
-package maven-groupid;
+
 
 /**
  * Hello world!
